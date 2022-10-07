@@ -1,2 +1,3 @@
 # dartProjects
 Introduction to DART 
+First is simple Command Line app named Rock, Paper & Scizzors...
